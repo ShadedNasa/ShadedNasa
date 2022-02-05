@@ -7,3 +7,4 @@
 
 ### I use ZorinOS by the way because I'm not a microsoft simp.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shadednasa)](https://github.com/anuraghazra/github-readme-stats)
